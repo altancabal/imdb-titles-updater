@@ -1,5 +1,5 @@
 {
-  "name": "title-metadata-generator",
+  "name": "imdb-titles-updater",
   "version": "0.0.1",
   "description": "",
   "main": "processor.js",
